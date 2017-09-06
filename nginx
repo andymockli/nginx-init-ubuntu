@@ -18,8 +18,6 @@
 #               server and it's process state.
 #
 # processname: nginx
-# config:      /usr/local/nginx/conf/nginx.conf
-# pidfile:     /usr/local/nginx/logs/nginx.pid
 # Provides:    nginx
 #
 # Author:  Jason Giedymin
