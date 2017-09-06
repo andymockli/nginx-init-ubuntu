@@ -119,6 +119,7 @@ It's likely you'll need to update the NGINXPATH value if you didn't install from
     # Changing NGINXPATH when Nginx was installed with apt-get
     NGINXPATH=/etc/nginx
 
+Common templates for the /etc/default/nginx file can be found in the `defaults` directory.
 
 ## Testing
 Tests run as part of the deployment scripts `integration-tests.yml`.
