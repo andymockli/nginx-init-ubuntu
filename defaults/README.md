@@ -18,6 +18,6 @@ For example, if your install looked something like this
 
 Then just also do this
 
-   sudo wget https://raw.githubusercontent.com/JasonGiedymin/nginx-init-ubuntu/master/defaults/ubuntu-sites-enabled-defaults -O /etc/default/nginx
+    sudo wget https://raw.githubusercontent.com/JasonGiedymin/nginx-init-ubuntu/master/defaults/ubuntu-sites-enabled-defaults -O /etc/default/nginx
     sudo chmod +x /etc/default/nginx
 
