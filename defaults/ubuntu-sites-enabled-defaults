@@ -1,0 +1,3 @@
+DAEMON="/usr/sbin/nginx"		# path to daemon binary
+NGINX_CONF_FILE="/etc/nginx/nginx.conf"	# config file path
+PIDSPATH="/var/run"			# pid location
